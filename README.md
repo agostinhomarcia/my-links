@@ -41,7 +41,7 @@
 ## :dart: About
 
 <h4 align="center"> My-Links 🎉 </h4>
-<p align="center">O My-links é um agregador de links para usar como cartão de visitas online, desenvolvido em parceria com a Rocketseat💜.</p>
+<p align="center">My-links is a link aggregator to use as an online business card, developed in partnership with Rocketseat💜.</p>
 
 <p align="center">
    <img src="src/img/dark.png" alt="dog" width="650"/>
